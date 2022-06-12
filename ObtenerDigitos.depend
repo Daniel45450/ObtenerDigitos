@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1655066216 source:e:\programas\obtenerdigitos\main.cpp
+	<iostream>
+	<Lista.h>
+
+1655065924 source:e:\programas\obtenerdigitos\src\lista.cpp
+	"Lista.h"
+	<iostream>
+
+1655065285 e:\programas\obtenerdigitos\include\lista.h
+
